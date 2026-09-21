@@ -1,4 +1,4 @@
-Day 8: annex4 (Loss Rate) Analysis
+Day 9: annex4 (Loss Rate) Analysis
 Dataset
 
 Loss rate reference table from Sales_Data — 251 items, imported into SQL Server.

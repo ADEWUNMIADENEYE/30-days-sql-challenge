@@ -1,2 +1,2 @@
-# 30-days-sql-challenge
-My 30 days SQL practice log
+# 30-days-of-dataset-challenge
+My 30 days practice on dataset with sql log

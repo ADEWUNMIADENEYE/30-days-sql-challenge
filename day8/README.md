@@ -1,4 +1,4 @@
-Day 7: annex1 (Item Master) Analysis
+Day 8: annex1 (Item Master) Analysis
 Dataset
 
 Item master table from Sales_Data — 251 unique items across 6 categories, imported into SQL Server.

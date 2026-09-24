@@ -1,0 +1,13 @@
+﻿Employee,1,Below 10000,7,28.6
+Employee,2,10001 to 25000,23,73.9
+Employee,3,25001 to 50000,51,62.7
+Employee,4,More than 50000,35,68.6
+House wife,0,No Income,9,77.8
+Self Employed,2,10001 to 25000,15,66.7
+Self Employed,3,25001 to 50000,14,42.9
+Self Employed,4,More than 50000,24,75
+Student,0,No Income,175,88
+Student,1,Below 10000,17,100
+Student,2,10001 to 25000,6,83.3
+Student,3,25001 to 50000,3,100
+Student,4,More than 50000,2,100

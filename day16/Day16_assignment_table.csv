@@ -1,0 +1,240 @@
+﻿Traditional,20,67,77,64,78,High,High,87,STEM
+Traditional,23,62,58,23,42,High,High,175,Social Sciences
+Traditional,29,82,82,25,59,Medium,Low,139,Humanities
+Traditional,12,64,67,74,79,High,Medium,35,Humanities
+Traditional,27,18,81,57,70,Medium,Low,137,Social Sciences
+Traditional,22,28,68,14,92,Medium,Medium,15,Social Sciences
+Traditional,22,51,73,54,36,High,Medium,17,Humanities
+Traditional,20,74,75,32,48,Medium,High,102,STEM
+Traditional,22,63,62,62,97,High,High,70,Humanities
+Traditional,27,47,73,30,52,High,High,85,Humanities
+Traditional,21,86,65,35,64,High,Low,26,STEM
+Traditional,16,72,55,63,67,Medium,Low,61,Humanities
+Traditional,10,74,68,NULL,42,Low,Low,58,Humanities
+Traditional,29,76,77,27,63,Low,Low,184,Social Sciences
+Traditional,11,87,45,56,75,Medium,Medium,77,Humanities
+Traditional,21,57,66,69,75,Medium,Medium,199,Humanities
+Traditional,28,42,79,60,39,High,Low,109,STEM
+Traditional,10,43,77,62,73,High,Medium,38,Humanities
+Traditional,20,31,38,44,66,High,Medium,23,Social Sciences
+Traditional,11,61,70,42,93,Low,Low,76,STEM
+Traditional,9,76,71,49,65,Low,High,58,Humanities
+Traditional,23,76,66,54,65,Low,Medium,155,Humanities
+Traditional,18,85,60,71,62,Low,Low,125,Social Sciences
+Traditional,24,59,73,44,79,Low,Low,115,STEM
+Traditional,21,63,34,56,69,Low,Medium,56,Social Sciences
+Traditional,21,72,93,90,70,High,High,47,Humanities
+Traditional,8,67,78,72,73,High,High,65,Humanities
+Traditional,8,78,42,12,66,Medium,Low,25,Social Sciences
+Traditional,19,60,77,54,36,Low,High,151,STEM
+Traditional,29,48,68,20,80,Low,High,51,Humanities
+Process-Oriented,66,48,62,81,55,Low,Medium,185,STEM
+Process-Oriented,66,62,78,52,47,Medium,High,124,Humanities
+Process-Oriented,63,47,87,85,55,High,Low,78,Social Sciences
+Process-Oriented,67,72,56,33,58,Low,Low,94,Humanities
+Process-Oriented,67,70,83,69,69,Medium,Low,54,Social Sciences
+Process-Oriented,73,75,51,66,73,Low,Medium,186,Social Sciences
+Process-Oriented,66,60,85,57,78,Low,Medium,58,STEM
+Process-Oriented,43,56,71,45,44,Medium,High,68,Social Sciences
+Process-Oriented,86,79,91,64,48,Medium,High,142,Humanities
+Process-Oriented,71,61,76,44,41,Medium,Low,59,Humanities
+Process-Oriented,74,71,68,13,61,High,Low,157,STEM
+Process-Oriented,74,33,64,43,75,Medium,High,125,STEM
+Process-Oriented,68,56,73,30,49,Medium,Medium,49,Humanities
+Process-Oriented,73,50,90,78,67,Low,High,143,Humanities
+Process-Oriented,80,54,83,37,81,High,High,199,STEM
+Process-Oriented,66,63,85,21,64,Low,Low,185,STEM
+Process-Oriented,78,69,51,40,56,High,High,76,Humanities
+Process-Oriented,65,82,69,30,62,Low,Medium,95,Social Sciences
+Process-Oriented,78,27,53,51,65,Medium,Medium,18,STEM
+Process-Oriented,64,69,77,61,59,Low,Low,43,Social Sciences
+Process-Oriented,72,69,81,52,56,High,High,95,Social Sciences
+Process-Oriented,72,41,72,79,71,Low,Medium,114,STEM
+Process-Oriented,58,50,60,40,59,Medium,Low,134,Humanities
+Process-Oriented,75,63,68,50,94,Medium,Low,123,Humanities
+Process-Oriented,61,55,79,46,94,High,High,36,Humanities
+Process-Oriented,68,54,54,41,79,Low,High,151,STEM
+Process-Oriented,89,35,58,47,76,High,Low,146,STEM
+Process-Oriented,77,83,78,45,89,Low,Medium,26,Humanities
+Process-Oriented,74,48,70,72,55,High,High,108,Humanities
+Process-Oriented,82,91,61,60,65,Low,Low,105,Humanities
+Oral Defense,83,65,69,69,69,Medium,Low,74,Humanities
+Oral Defense,94,56,67,52,91,Medium,High,181,Humanities
+Oral Defense,88,40,57,19,65,Medium,High,28,Social Sciences
+Oral Defense,93,61,60,48,63,High,High,42,Social Sciences
+Oral Defense,96,41,68,20,73,Low,Medium,191,STEM
+Oral Defense,99,60,70,72,68,Medium,High,132,Social Sciences
+Oral Defense,87,56,57,49,37,Medium,High,155,Social Sciences
+Oral Defense,90,80,44,39,75,Medium,Low,52,Social Sciences
+Oral Defense,97,93,54,72,53,Medium,High,116,STEM
+Oral Defense,89,66,64,34,69,High,High,194,STEM
+Oral Defense,79,68,59,28,55,Low,Medium,24,Social Sciences
+Oral Defense,98,28,78,15,66,Medium,High,78,Social Sciences
+Oral Defense,99,55,71,35,62,Low,High,159,STEM
+Oral Defense,74,74,71,41,61,Medium,Medium,147,Humanities
+Oral Defense,100,56,76,49,62,High,Low,180,Social Sciences
+Oral Defense,76,83,84,24,86,Low,Low,68,STEM
+Oral Defense,93,71,47,57,57,Low,Low,161,Humanities
+Oral Defense,91,37,65,61,64,Low,Medium,165,STEM
+Oral Defense,95,60,99,79,66,Medium,Low,40,Humanities
+Oral Defense,100,55,66,70,61,Low,High,181,Social Sciences
+Oral Defense,83,68,65,36,46,Medium,Medium,60,Social Sciences
+Oral Defense,100,61,72,66,82,Low,Medium,174,STEM
+Oral Defense,80,67,65,34,44,High,High,15,Humanities
+Oral Defense,89,57,37,26,83,Low,High,175,Humanities
+Oral Defense,86,74,85,18,58,Medium,High,48,Humanities
+Oral Defense,86,44,65,69,49,Low,Low,106,Social Sciences
+Oral Defense,82,59,48,24,49,Medium,High,74,Social Sciences
+Oral Defense,86,54,82,61,55,Low,High,19,Social Sciences
+Oral Defense,79,84,82,65,60,High,High,149,STEM
+Oral Defense,78,51,72,37,67,Medium,High,92,Humanities
+Project-Based,59,79,51,43,56,Medium,Medium,111,Social Sciences
+Project-Based,52,48,88,56,51,Medium,Low,44,Social Sciences
+Project-Based,67,41,64,40,85,High,High,172,STEM
+Project-Based,43,67,64,46,72,Low,High,186,Social Sciences
+Project-Based,64,47,85,64,72,Low,Low,28,STEM
+Project-Based,62,70,73,58,75,Low,Medium,113,Social Sciences
+Project-Based,61,50,71,62,71,Low,High,122,STEM
+Project-Based,37,64,86,72,88,High,Medium,90,Social Sciences
+Project-Based,61,57,53,41,29,High,High,71,Humanities
+Project-Based,61,89,60,27,64,Low,High,106,Social Sciences
+Project-Based,73,67,66,46,71,Low,Medium,170,Social Sciences
+Project-Based,59,61,80,72,42,High,High,54,Humanities
+Project-Based,45,61,67,41,51,Low,Low,66,Humanities
+Project-Based,77,49,73,26,57,Low,Low,182,Humanities
+Project-Based,59,50,49,71,60,Low,Low,182,Social Sciences
+Project-Based,51,24,55,14,55,Medium,Medium,172,Humanities
+Project-Based,72,57,53,72,57,High,Medium,184,Social Sciences
+Project-Based,64,59,78,66,63,Medium,High,120,Social Sciences
+Project-Based,62,26,92,77,57,Medium,High,19,Humanities
+Project-Based,62,57,75,52,37,Low,Low,151,STEM
+Project-Based,56,43,76,36,60,Medium,Medium,72,Humanities
+Project-Based,54,58,63,27,85,High,Medium,171,Social Sciences
+Project-Based,74,47,81,44,63,Low,Medium,86,Social Sciences
+Project-Based,57,80,68,49,59,High,Low,47,STEM
+Project-Based,54,56,75,32,46,Low,Low,91,STEM
+Project-Based,55,71,67,45,58,Medium,Medium,171,Social Sciences
+Project-Based,66,54,60,8,NULL,Low,Medium,28,Social Sciences
+Project-Based,60,54,86,66,77,Medium,High,192,Social Sciences
+Project-Based,57,83,59,46,66,Medium,High,103,Social Sciences
+Project-Based,60,82,69,49,78,Low,Low,177,Social Sciences
+Reflective,77,83,72,56,81,Medium,Medium,185,Social Sciences
+Reflective,54,57,48,86,71,Medium,Medium,56,Social Sciences
+Reflective,53,45,85,41,79,High,High,122,STEM
+Reflective,61,75,58,53,52,Medium,Low,183,Social Sciences
+Reflective,73,73,70,52,95,Low,High,17,Social Sciences
+Reflective,52,78,81,35,89,High,Medium,77,STEM
+Reflective,80,68,81,55,64,High,High,167,STEM
+Reflective,79,57,75,88,74,Medium,Low,143,Social Sciences
+Reflective,76,68,86,61,78,Low,Medium,78,Social Sciences
+Reflective,79,71,87,61,45,Medium,Medium,127,STEM
+Reflective,52,64,59,42,43,Low,High,119,STEM
+Reflective,78,89,59,61,72,Medium,Medium,65,STEM
+Reflective,68,80,74,57,73,Medium,High,70,Social Sciences
+Reflective,66,57,81,58,72,Medium,Low,69,Social Sciences
+Reflective,70,66,52,74,39,High,Medium,77,Social Sciences
+Reflective,60,63,69,29,NULL,Medium,Low,45,STEM
+Reflective,68,47,61,44,53,Medium,Low,88,STEM
+Reflective,49,44,77,98,85,Medium,Medium,57,Humanities
+Reflective,56,39,72,31,50,Low,Low,155,STEM
+Reflective,63,30,74,52,44,Low,Low,17,Humanities
+Reflective,67,43,76,80,77,Low,Low,21,STEM
+Reflective,68,74,57,33,64,Low,Low,159,Humanities
+Reflective,46,47,66,45,90,High,Low,198,Humanities
+Reflective,71,71,78,53,64,Low,Medium,84,Humanities
+Reflective,85,60,80,75,68,Low,High,23,Social Sciences
+Reflective,78,64,66,95,48,High,High,145,Humanities
+Reflective,49,75,51,NULL,62,High,Medium,134,STEM
+Reflective,64,57,75,42,47,High,Low,118,Social Sciences
+Reflective,61,76,73,34,49,Medium,Medium,83,Humanities
+Reflective,71,75,46,44,70,Low,Low,23,STEM
+Peer-Review,71,67,59,81,71,Medium,Low,24,Social Sciences
+Peer-Review,44,50,46,55,82,Medium,Low,163,STEM
+Peer-Review,61,47,61,30,52,Medium,Low,179,Social Sciences
+Peer-Review,54,47,76,43,50,Medium,Medium,17,Humanities
+Peer-Review,66,86,87,33,76,Medium,High,172,STEM
+Peer-Review,50,37,45,29,34,High,High,27,STEM
+Peer-Review,44,48,60,58,52,Low,Low,162,Humanities
+Peer-Review,81,87,72,70,78,High,High,23,Social Sciences
+Peer-Review,50,40,80,75,76,High,Low,108,Humanities
+Peer-Review,40,58,68,70,56,Medium,Low,147,Social Sciences
+Peer-Review,54,55,79,17,53,High,Low,48,Social Sciences
+Peer-Review,53,41,63,66,80,Medium,High,89,Humanities
+Peer-Review,43,50,72,86,82,High,Low,136,Social Sciences
+Peer-Review,73,80,69,37,65,Medium,Low,119,Humanities
+Peer-Review,44,62,71,53,41,Medium,Low,185,Social Sciences
+Peer-Review,45,60,67,30,61,High,Low,185,Humanities
+Peer-Review,53,55,51,31,74,Medium,High,125,STEM
+Peer-Review,40,51,45,58,69,Medium,Medium,29,STEM
+Peer-Review,55,74,64,24,73,Low,Low,15,Humanities
+Peer-Review,44,60,73,48,50,Medium,Low,183,STEM
+Peer-Review,28,51,63,68,74,Low,High,72,STEM
+Peer-Review,43,58,71,41,53,Medium,Low,68,Humanities
+Peer-Review,50,69,76,51,NULL,High,High,75,Social Sciences
+Peer-Review,47,65,86,41,76,Low,Low,183,Humanities
+Peer-Review,55,80,83,16,65,High,High,96,Humanities
+Peer-Review,58,68,84,3,58,Medium,High,96,STEM
+Peer-Review,61,62,69,25,86,High,High,120,STEM
+Peer-Review,55,61,85,52,64,Low,High,70,STEM
+Peer-Review,49,61,73,17,92,Low,Medium,128,Humanities
+Peer-Review,62,60,70,33,49,Medium,Medium,128,STEM
+Multi-Stage,63,59,56,32,72,Medium,Medium,48,STEM
+Multi-Stage,80,62,70,61,72,Low,Medium,86,STEM
+Multi-Stage,75,87,70,70,40,High,Medium,113,Social Sciences
+Multi-Stage,74,50,83,77,45,High,Low,144,Social Sciences
+Multi-Stage,65,47,58,54,56,Medium,Medium,125,STEM
+Multi-Stage,76,51,69,26,64,High,Low,171,Social Sciences
+Multi-Stage,80,54,72,67,71,High,Low,168,Social Sciences
+Multi-Stage,78,73,68,49,48,Medium,High,167,Social Sciences
+Multi-Stage,65,45,83,61,64,Medium,High,114,STEM
+Multi-Stage,80,66,80,66,81,High,Low,100,STEM
+Multi-Stage,70,62,63,22,76,Low,High,75,Social Sciences
+Multi-Stage,94,65,72,54,83,Medium,Low,120,Social Sciences
+Multi-Stage,77,49,86,90,81,High,Medium,180,STEM
+Multi-Stage,71,38,62,32,39,High,High,55,Social Sciences
+Multi-Stage,72,45,65,77,56,Low,High,141,STEM
+Multi-Stage,53,91,82,40,76,Medium,Medium,89,Humanities
+Multi-Stage,64,41,79,33,61,High,Low,119,STEM
+Multi-Stage,86,68,70,40,54,Medium,Low,61,Humanities
+Multi-Stage,78,79,75,26,56,Medium,Low,136,Social Sciences
+Multi-Stage,66,56,60,57,27,Low,High,172,STEM
+Multi-Stage,89,79,78,53,40,High,High,154,Social Sciences
+Multi-Stage,65,42,58,45,55,High,Low,105,Social Sciences
+Multi-Stage,95,60,54,27,51,Medium,High,75,Humanities
+Multi-Stage,64,68,71,59,95,High,High,172,Humanities
+Multi-Stage,57,50,61,68,62,High,Medium,137,Social Sciences
+Multi-Stage,63,40,75,13,35,High,Low,59,Social Sciences
+Multi-Stage,77,34,78,45,30,High,Low,146,Social Sciences
+Multi-Stage,74,47,76,63,55,Medium,Low,46,STEM
+Multi-Stage,84,62,70,80,52,Medium,Low,171,STEM
+Multi-Stage,61,73,80,55,49,Low,Medium,143,STEM
+Scaffolded,63,38,69,67,66,High,Low,94,Humanities
+Scaffolded,65,68,64,61,53,Low,High,178,Humanities
+Scaffolded,72,39,74,51,75,Medium,Low,122,Humanities
+Scaffolded,85,79,54,34,81,Medium,Low,123,Humanities
+Scaffolded,72,54,69,38,74,Low,High,147,Social Sciences
+Scaffolded,80,66,83,79,69,Low,Medium,186,STEM
+Scaffolded,75,75,59,66,70,High,Low,74,Humanities
+Scaffolded,68,67,47,44,50,Medium,High,35,Social Sciences
+Scaffolded,76,57,69,41,41,Low,High,47,Social Sciences
+Scaffolded,60,30,81,51,69,Medium,Low,70,Social Sciences
+Scaffolded,63,51,69,33,84,Low,High,55,Social Sciences
+Scaffolded,63,74,80,45,59,Medium,High,199,Humanities
+Scaffolded,74,46,76,54,83,Low,Medium,126,STEM
+Scaffolded,67,86,94,65,68,Medium,Low,59,Humanities
+Scaffolded,80,54,63,44,67,High,Low,82,STEM
+Scaffolded,84,78,62,79,53,High,Medium,55,STEM
+Scaffolded,82,74,60,62,74,High,Medium,197,STEM
+Scaffolded,50,67,66,50,81,High,High,163,Social Sciences
+Scaffolded,82,75,71,64,82,Medium,High,154,Social Sciences
+Scaffolded,59,69,90,40,80,Medium,Low,29,Social Sciences
+Scaffolded,83,61,90,67,83,Low,Low,56,Social Sciences
+Scaffolded,85,62,42,35,57,Medium,Medium,58,Social Sciences
+Scaffolded,77,38,71,52,72,High,Medium,161,STEM
+Scaffolded,81,40,66,40,60,Low,Medium,193,STEM
+Scaffolded,66,64,56,68,75,Low,Medium,64,Humanities
+Scaffolded,59,53,69,25,36,Medium,High,195,Humanities
+Scaffolded,79,70,72,13,53,Medium,High,172,Social Sciences
+Scaffolded,70,46,65,28,73,High,Medium,165,Social Sciences
+Scaffolded,59,46,64,50,99,Low,High,171,STEM
+Scaffolded,76,90,80,67,72,Medium,High,97,Social Sciences

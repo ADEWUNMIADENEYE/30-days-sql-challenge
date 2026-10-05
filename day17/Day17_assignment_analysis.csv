@@ -1,0 +1,24 @@
+﻿Multi-Stage,1. Small (<50),2,68.500000
+Multi-Stage,2. Medium (50-99),7,74.000000
+Multi-Stage,3. Large (100+),21,73.400000
+Oral Defense,1. Small (<50),7,86.700000
+Oral Defense,2. Medium (50-99),7,84.300000
+Oral Defense,3. Large (100+),16,92.100000
+Peer-Review,1. Small (<50),7,57.900000
+Peer-Review,2. Medium (50-99),7,48.900000
+Peer-Review,3. Large (100+),16,51.600000
+Process-Oriented,1. Small (<50),5,69.600000
+Process-Oriented,2. Medium (50-99),9,65.800000
+Process-Oriented,3. Large (100+),16,73.500000
+Project-Based,1. Small (<50),5,60.200000
+Project-Based,2. Medium (50-99),7,55.100000
+Project-Based,3. Large (100+),18,60.900000
+Reflective,1. Small (<50),6,69.800000
+Reflective,2. Medium (50-99),11,64.800000
+Reflective,3. Large (100+),13,64.800000
+Scaffolded,1. Small (<50),3,67.700000
+Scaffolded,2. Medium (50-99),11,72.900000
+Scaffolded,3. Large (100+),16,71.900000
+Traditional,1. Small (<50),8,17.000000
+Traditional,2. Medium (50-99),11,16.700000
+Traditional,3. Large (100+),11,23.700000
